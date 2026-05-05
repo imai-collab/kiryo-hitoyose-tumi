@@ -1,0 +1,6 @@
+{
+  "name": "ひと目の寄せ基本の詰み",
+  "description": "終盤練習ができるアプリです。あなたの指し手に対して自動で応手します。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
